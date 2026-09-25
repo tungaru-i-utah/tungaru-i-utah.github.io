@@ -1,0 +1,1 @@
+import{s as a,F as e}from"./BKIZWiiH.js";async function c(n,o){const{data:t,error:r}=await a.functions.invoke(n,o?{body:o}:void 0);if(r){if(r instanceof e){const s=await r.context.json().catch(()=>null);throw new Error(s?.error??r.message)}throw new Error(r.message)}return t}export{c as i};
