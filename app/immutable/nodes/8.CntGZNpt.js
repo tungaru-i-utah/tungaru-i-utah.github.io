@@ -1,1 +1,0 @@
-import"../chunks/BTgG-7Uj.js";import"../chunks/WWOJ5xA3.js";import{A as a}from"../chunks/CZWc4eQ7.js";function i(n){a(n,{mode:"signup",heading:"Create an account",buttonLabel:"Send sign-up link",altHref:"/login",altLabel:"Already have an account? Log in"})}export{i as component};
