@@ -1,1 +1,0 @@
-import{a8 as t,u as o,a9 as e,aa as u,v as c}from"./CpkXjcSV.js";function f(n){e===null&&t(),u&&e.l!==null?l(e).m.push(n):o(()=>{const a=c(n);if(typeof a=="function")return a})}function l(n){var a=n.l;return a.u??={a:[],b:[],m:[]}}export{f as o};
