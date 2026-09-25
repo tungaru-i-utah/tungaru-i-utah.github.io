@@ -1,0 +1,1 @@
+import{s as i}from"./BuYrVCyd.js";async function a(){const{data:e,error:t}=await i.from("site_settings").select("*").eq("id",!0).single();if(t)throw t;return e}async function n(e){const{data:t,error:s}=await i.from("site_settings").update(e).eq("id",!0).select().single();if(s)throw s;return t}export{a as g,n as u};
