@@ -1,1 +1,0 @@
-import{au as a,l}from"./Ek_KdFkW.js";function u(s,n,r){var t=s==null?"":""+s;return t===""?null:t}function p(s,n,r,t,f,c){var i=s[a];if(l||i!==r||i===void 0){var e=u(r);(!l||e!==s.getAttribute("class"))&&(e==null?s.removeAttribute("class"):s.className=e),s[a]=r}return c}export{p as s};
