@@ -1,12 +1,12 @@
 {
-	"name": "Tungaru i Utah",
-	"short_name": "Tungaru i Utah",
-	"description": "Tungaru i Utah — countdown and updates for the Kiribati Independence Celebration, July 2028.",
+	"name": "Tungaru Utah",
+	"short_name": "Tungaru Utah",
+	"description": "Rooted in Kiribati. Growing together in Utah. Community, culture, and the 2028 Independence Day celebration.",
 	"start_url": "/",
 	"scope": "/",
 	"display": "standalone",
-	"background_color": "#0a1a33",
-	"theme_color": "#0a1a33",
+	"background_color": "#071521",
+	"theme_color": "#0b4f6c",
 	"icons": [
 		{ "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
 		{ "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" },

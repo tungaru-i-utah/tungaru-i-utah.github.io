@@ -1,1 +1,0 @@
-import{j as t,ag as e,v as u,ah as l,u as a}from"./CFJccstd.js";function c(n){t===null&&e(),l&&t.l!==null?s(t).m.push(n):u(()=>{const o=a(n);if(typeof o=="function")return o})}function i(n){t===null&&e(),c(()=>()=>a(n))}function s(n){var o=n.l;return o.u??={a:[],b:[],m:[]}}export{i as a,c as o};
