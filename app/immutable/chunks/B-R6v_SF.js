@@ -1,0 +1,1 @@
+import{i as t}from"./ClSnaHEY.js";function n(){return t("admin-users-data")}function a(e,s){return t("admin-set-user-status",{user_id:e,active:s})}function i(e,s){return t("admin-set-role",{user_id:e,role:s})}export{a,n as g,i as s};
