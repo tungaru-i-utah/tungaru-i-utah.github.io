@@ -1,1 +1,0 @@
-import{G as o,H as v,J as y,aa as f,ab as l,ac as m,a7 as p,a6 as i,ad as T,a8 as A}from"./DTL_mC1p.js";import{B as R}from"./BgNIBlni.js";function E(d,_,e){var s;o&&(s=A,v());var r=new R(d);y(()=>{var a=_()??null;if(o){var c=l(s),h=c===T,u=a!==null;if(h!==u){var t=m();p(t),r.anchor=t,i(!1),r.ensure(a,a&&(n=>e(n,a))),i(!0);return}}r.ensure(a,a&&(n=>e(n,a)))},f)}export{E as c};

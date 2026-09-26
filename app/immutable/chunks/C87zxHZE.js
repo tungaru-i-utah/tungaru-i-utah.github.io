@@ -1,0 +1,1 @@
+import{p as r,u as t}from"./BSWUoRN6.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}},a={get current(){return t.current}},s=e,p=a;export{s as p,p as u};
