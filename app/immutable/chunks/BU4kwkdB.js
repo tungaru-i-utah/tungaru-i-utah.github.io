@@ -1,0 +1,1 @@
+import"./NZTpNUN0.js";import{s as t,r as a}from"./Bk03o-Yq.js";import{I as n}from"./B0JREnXj.js";var p=new Set(["$$slots","$$events","$$legacy"]);function d(r,e){let s=a(e,p);const o={name:"user-round",size:24,node:[["circle",{cx:"12",cy:"8",r:"5"}],["path",{d:"M20 21a8 8 0 0 0-16 0"}]],aliases:["user-2"]};n(r,t(()=>s,{get icon(){return o}}))}export{d as U};
