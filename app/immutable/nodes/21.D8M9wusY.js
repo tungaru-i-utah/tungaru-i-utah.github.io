@@ -1,0 +1,1 @@
+import"../chunks/NZTpNUN0.js";import"../chunks/DnEV2yJ-.js";import{A as n}from"../chunks/Wuffd-1Q.js";function i(e){n(e,{mode:"login",heading:"Welcome back",buttonLabel:"Send sign-in link",altHref:"/signup",altLabel:"New here? Create an account"})}export{i as component};
