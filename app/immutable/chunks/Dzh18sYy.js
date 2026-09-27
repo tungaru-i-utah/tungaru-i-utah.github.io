@@ -1,0 +1,1 @@
+import{i as t}from"./CI-xpgjr.js";function r(){return t("admin-users-data")}function n(e,s){return t("admin-set-user-status",{user_id:e,active:s})}function i(e,s){return t("admin-set-role",{user_id:e,role:s})}function u(e,s){return t("admin-set-display-name",{user_id:e,display_name:s})}export{n as a,u as b,r as g,i as s};
