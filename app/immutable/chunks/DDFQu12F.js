@@ -1,0 +1,1 @@
+import{D as o,E as p,C as v,ap as y,aq as f,ar as l,a0 as m,ag as i,as as T,a4 as g}from"./DdiVPF4v.js";import{B as A}from"./BksKz0Fz.js";function N(d,_,s){var e;o&&(e=g,p());var r=new A(d);v(()=>{var a=_()??null;if(o){var h=f(e),c=h===T,u=a!==null;if(c!==u){var t=l();m(t),r.anchor=t,i(!1),r.ensure(a,a&&(n=>s(n,a))),i(!0);return}}r.ensure(a,a&&(n=>s(n,a)))},y)}export{N as c};
