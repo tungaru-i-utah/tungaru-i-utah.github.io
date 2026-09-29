@@ -1,1 +1,0 @@
-import{au as t,w as i,x as y,y as c}from"./DfExmChs.js";import{B as f}from"./C4AzHQEl.js";const l=Symbol("NaN");function b(r,e,n){y&&c();var o=new f(r),s=!t();i(()=>{var a=e();a!==a&&(a=l),s&&a!==null&&typeof a=="object"&&(a={}),o.ensure(a,n)})}export{b as k};

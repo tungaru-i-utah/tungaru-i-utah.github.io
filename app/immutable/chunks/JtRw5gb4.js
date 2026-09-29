@@ -1,0 +1,1 @@
+function n(r){return(r/100).toLocaleString("en-US",{style:"currency",currency:"USD"})}function o(r){const t=r%100;return t>=11&&t<=13?`${r}th`:`${r}${{1:"st",2:"nd",3:"rd"}[r%10]??"th"}`}export{n as f,o};
