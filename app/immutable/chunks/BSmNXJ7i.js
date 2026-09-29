@@ -1,0 +1,1 @@
+const n={pending:"warning",live:"success",paused:"neutral",removed:"danger",sold_out:"info"},s={pending:"neutral",paid:"primary",fulfilled:"success",refund_requested:"warning",refunded:"neutral",failed:"danger",cancelled:"neutral"};function d(e){return e==="suspended"?"danger":"success"}export{n as L,s as O,d as s};
