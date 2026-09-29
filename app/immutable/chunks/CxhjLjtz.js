@@ -1,1 +1,0 @@
-const n=500,t=1e5,a=500,A=1e5;function E(_,c){if(_<=0)return 0;if(c==="card")return Math.ceil((_+30)/.971)-_;const o=Math.ceil(_/(1-.008))-_;return Math.min(o,500)}function C(_,c,o){return _+(o?E(_,c):0)}export{a as M,t as O,A as a,n as b,C as c,E as f};
