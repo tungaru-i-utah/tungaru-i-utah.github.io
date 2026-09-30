@@ -1,0 +1,1 @@
+const C=500,T=1e5,c=500,A=1e5;function a(_,t){return Math.round(_*.029)+30}function o(_,t){if(_<=0)return 0;if(t==="card")return Math.ceil((_+30)/.971)-_;const n=Math.ceil(_/(1-.008))-_;return Math.min(n,500)}function e(_,t,n){return _+(n?o(_,t):0)}export{c as M,T as O,A as a,C as b,e as c,o as f,a as s};
