@@ -1,1 +1,0 @@
-import"./NZTpNUN0.js";import{s as r,r as p}from"./D9OiZjxy.js";import{I as a}from"./B5F6Ffy7.js";var n=new Set(["$$slots","$$events","$$legacy"]);function d(e,t){let s=p(t,n);const o={name:"menu",size:24,node:[["path",{d:"M4 5h16"}],["path",{d:"M4 12h16"}],["path",{d:"M4 19h16"}]]};a(e,r(()=>s,{get icon(){return o}}))}export{d as M};
