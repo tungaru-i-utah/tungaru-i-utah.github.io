@@ -1,1 +1,0 @@
-import{b as n,P as e}from"./Cj5x2KMt.js";const s={[n.Active]:"success",[n.Paused]:"warning",[n.Cancelled]:"neutral"},r={[e.Scheduled]:"neutral",[e.Due]:"neutral",[e.Submitted]:"neutral",[e.Processing]:"info",[e.Succeeded]:"success",[e.Failed]:"danger",[e.Returned]:"warning",[e.Refunded]:"warning",[e.Cancelled]:"neutral"};export{s as P,r as a};

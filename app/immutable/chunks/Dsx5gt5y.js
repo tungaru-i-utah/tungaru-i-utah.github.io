@@ -1,1 +1,0 @@
-import"./NZTpNUN0.js";import{s,r as a}from"./CZABjS7e.js";import{I as p}from"./CjQybnVY.js";var n=new Set(["$$slots","$$events","$$legacy"]);function $(e,r){let t=a(r,n);const o={name:"lock",size:24,node:[["rect",{width:"18",height:"11",x:"3",y:"11",rx:"2",ry:"2"}],["path",{d:"M7 11V7a5 5 0 0 1 10 0v4"}]]};p(e,s(()=>t,{get icon(){return o}}))}export{$ as L};
