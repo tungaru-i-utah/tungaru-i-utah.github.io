@@ -1,0 +1,1 @@
+function i(o){return(o??"").replace(/<[^>]*>/g,"").trim()}function s(o){const e=!!o.avatarUrl,n=i(o.bio).length>=20,r=!!o.country&&o.country.trim().length>0,t=[];return e||t.push("Profile photo"),n||t.push("About you"),r||t.push("Where you're from"),{photo:e,about:n,origin:r,complete:e&&n&&r,missing:t}}export{i as b,s as p};
