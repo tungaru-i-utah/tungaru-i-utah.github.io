@@ -1,1 +1,0 @@
-function s(o){return(o??"").replace(/<[^>]*>/g,"").trim()}function i(o){const t=!!o.avatarUrl,e=s(o.bio).length>=20,n=[];return t||n.push("Profile photo"),e||n.push("About you"),{photo:t,about:e,complete:t&&e,missing:n}}export{s as b,i as p};
