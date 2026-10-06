@@ -1,1 +1,0 @@
-import"./NZTpNUN0.js";import"./CVEEzIsB.js";import{T as a}from"./CVjZWX4w.js";function m(e){const r=[{href:"/market",label:"Browse",exact:!0},{href:"/market/sell",label:"Sell"},{href:"/market/orders",label:"My orders"},{href:"/market/sales",label:"My sales"}];a(e,{get items(){return r},label:"Marketplace"})}export{m as M};
