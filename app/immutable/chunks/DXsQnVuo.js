@@ -1,0 +1,1 @@
+import{s as r}from"./FLm3b3wt.js";async function s(t){const{data:m,error:e}=await r.from("committee_members").select("committee_id").eq("user_id",t);if(e)throw e;return(m??[]).map(o=>o.committee_id)}export{s as g};
