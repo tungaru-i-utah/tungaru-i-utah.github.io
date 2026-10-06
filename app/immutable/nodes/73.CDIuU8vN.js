@@ -1,1 +1,0 @@
-import"../chunks/NZTpNUN0.js";import"../chunks/BJLhPqqU.js";import{A as o}from"../chunks/C_d7xQG6.js";function i(n){o(n,{mode:"signup",heading:"Join Tungaru Utah",buttonLabel:"Send sign-up link",altHref:"/login",altLabel:"Already have an account? Log in"})}export{i as component};
