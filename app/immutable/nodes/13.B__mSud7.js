@@ -1,0 +1,1 @@
+import"../chunks/NZTpNUN0.js";import"../chunks/BK1g3RoH.js";import{E as t}from"../chunks/eIhnozED.js";function m(e){t(e,{eyebrow:"Admin",title:"Events",description:"Post upcoming community events — visible on /events once the feature flag is on. Committee members can also manage their own committee's events."})}export{m as component};
