@@ -1,1 +1,0 @@
-import{p as t,u as r}from"./3Ln-q9c5.js";const e={get params(){return t.params},get status(){return t.status},get url(){return t.url}},a={get current(){return r.current}},s=e,p=a;export{s as p,p as u};

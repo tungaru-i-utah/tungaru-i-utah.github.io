@@ -1,0 +1,1 @@
+import{p as t,u as r}from"./Do2uErCF.js";const e={get params(){return t.params},get status(){return t.status},get url(){return t.url}},a={get current(){return r.current}},s=e,p=a;export{s as p,p as u};
