@@ -1,0 +1,1 @@
+import{o as r}from"./CD7DmAy4.js";import{k as n,l as o,g as a,m as s}from"./C16D17yz.js";function m(){let t=n(o(new Date));return r(()=>{const e=setInterval(()=>s(t,new Date,!0),1e3);return()=>clearInterval(e)}),{get now(){return a(t)}}}export{m as u};
