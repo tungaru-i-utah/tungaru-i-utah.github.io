@@ -1,1 +1,0 @@
-import"./NZTpNUN0.js";import{s as r,r as a}from"./CxZbZS88.js";import{I as p}from"./CBh91ETw.js";var n=new Set(["$$slots","$$events","$$legacy"]);function d(t,e){let o=a(e,n);const s={name:"vote",size:24,node:[["path",{d:"m9 12 2 2 4-4"}],["path",{d:"M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z"}],["path",{d:"M22 19H2"}]]};p(t,r(()=>o,{get icon(){return s}}))}export{d as V};
