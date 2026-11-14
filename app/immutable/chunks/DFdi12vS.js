@@ -1,0 +1,1 @@
+import{o as r}from"./LEsVDp_A.js";import{k as n,l as o,g as a,q as s}from"./DVemoody.js";function c(){let t=n(o(new Date));return r(()=>{const e=setInterval(()=>s(t,new Date,!0),1e3);return()=>clearInterval(e)}),{get now(){return a(t)}}}export{c as u};
